@@ -1,0 +1,8 @@
+"c:\\temp\\s3.mp3"	Name3	Singer3	Album3	Gengre3	Duration3
+"c:\\temp\\s9.mp3"	Name9	Singer9	Album9	Gengre9	Duration9
+"c:\\temp\\s10.mp3"	Name10	Singer10	Album10	Gengre10	Duration10
+"c:\\temp\\s12.mp3"	Name12	Singer12	Album12	Gengre12	Duration12
+"c:\\temp\\s13.mp3"	Name13	Singer13	Album13	Gengre13	Duration13
+"c:\\temp\\s14.mp3"	Name14	Singer14	Album14	Gengre14	Duration14
+"c:\\temp\\s77.mp3"	Name77	Singer77	Album77	Gengre77	Duration77
+"c:\\temp\\s84.mp3"	Name84	Singer84	Album84	Gengre84	Duration84

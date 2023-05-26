@@ -1,0 +1,53 @@
+﻿  App.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\App.cpp(76,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DailyMix.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\DailyMix.cpp(10,61): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Folders2.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+  Library.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(139,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(142,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(175,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(177,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(226,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(228,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(274,52): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(305,53): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(374,52): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(402,50): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(410,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(429,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(438,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(459,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Library.cpp(616,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+  Options2.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.cpp(28,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.cpp(86,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  PlayLists.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+  Podcast.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+  Search.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(56,1): warning C4005: 'LIBRARY_PLAY_SONG_NAME': macro redefinition
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Options2.h(55,1): message : see previous definition of 'LIBRARY_PLAY_SONG_NAME'
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Search.cpp(13,61): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Search.cpp(28,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Search.cpp(41,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Search.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\Search.cpp(65,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project_Music4.vcxproj -> C:\Users\mahmo\Desktop\Exc_1_oop\Project_Music4\x64\Debug\Project_Music4.exe

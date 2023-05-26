@@ -1,0 +1,3 @@
+"c:\\temp\\s10.mp3"	Name10	Singer10	Album10	Gengre10	Duration10
+"c:\\temp\\s12.mp3"	Name12	Singer12	Album12	Gengre12	Duration12
+"c:\\temp\\s13.mp3"	Name13	Singer13	Album13	Gengre13	Duration13
